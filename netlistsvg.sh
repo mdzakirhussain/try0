@@ -1,3 +1,4 @@
+# To convert json file to SVG using netlistsvg
 sudo apt update
 sudo apt install nodejs npm
 git clone https://github.com/nturley/netlistsvg
